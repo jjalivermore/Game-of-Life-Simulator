@@ -1,6 +1,6 @@
 # Game of Life Simulator
 Welcome to my Game of Life Simulator!
-This is an implementation of Conway's Game of Life in Python using Pygame
+This is an implementation of Conway's Game of Life in Python using Pygame.
 
 ## Features
 - Configuration editor with a set of built-in shapes
